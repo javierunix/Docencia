@@ -1,0 +1,4 @@
+*.pdf
+*.md
+.ipynb_checkpoints/
+test.*
