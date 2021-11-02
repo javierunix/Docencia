@@ -45,23 +45,14 @@ gas | Hydrogen in metals | soft drinks, home ammonia | air
 
 - Relationship between the amount of solute and the amount of solvent.
 - It can be expressed in several ways (for liquids and gases):
-    - **Grams per litre**: $c(g/L)=\ \frac{mass\ of\ solute\ (g)}{volume\ of\ solution\ (L)}$
-    - **Mass percentage**: $\%\  mass = \frac{m_{solute}(g)}{m_{solution}(g)} \times 100$
-    - **Volume %**: $\%\  volume = \frac{v_{solute}(mL)}{v_{solution}(mL)} \times 100$
+  - **Grams per litre**: $c(g/L)=\ \frac{mass\ of\ solute\ (g)}{volume\ of\ solution\ (L)}$
+  - **Mass percentage**: $\%\  mass = \frac{m_{solute}(g)}{m_{solution}(g)} \times 100$
+  - **Volume %**: $\%\  volume = \frac{v_{solute}(mL)}{v_{solution}(mL)} \times 100$
 
 ---
-## Procedures for the separation of mixtures
 
----
-### Separation of a heterogeneous mixture
+## Separation of the components of a solution
 
-#### Mixture of an insoluble solid in a liquid
-
-1. Decanting
-2. Filtration
-
-#### Mixture of two solids
-
-1. Magnetic separation
-2. Sublimation
-3. Dissolving and filtering
+1. **Vaporization**. This  method is  based  on that the two substances have different *boiling points*.
+2. **Crystalization**. Also based on the different boiling points, with the difference that the solutios must be saturated.
+3. **Distilation**. It uses the same principle. The desired substance is collected as liquid. 
