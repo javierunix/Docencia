@@ -48,5 +48,17 @@ gas | Hydrogen in metals | soft drinks, home ammonia | air
     - **Volume %**: $\%\  volume = \frac{v_{solute}(mL)}{v_{solution}(mL)} \times 100$
 
 ---
-### Procedures for the separation of mixtures
+## Procedures for the separation of mixtures
 
+---
+### Separation of a heterogeneous mixture
+
+#### Mixture of an insoluble solid in a liquid
+
+1. Decanting
+2. Filtration
+
+#### Mixture of two solids
+1. Magnetic separation
+2. Sublimation
+3. Dissolving and filtering
