@@ -22,7 +22,9 @@ class: invert
 
 --- 
 ### Solutions
+
 - Solutions are a homogeneous mixture.
+
 - Two components can be distiguised:
     - **Solute**. The component present in smaller amount.
     - **Solvent**. Component present in greater amount.
@@ -59,6 +61,7 @@ gas | Hydrogen in metals | soft drinks, home ammonia | air
 2. Filtration
 
 #### Mixture of two solids
+
 1. Magnetic separation
 2. Sublimation
 3. Dissolving and filtering
