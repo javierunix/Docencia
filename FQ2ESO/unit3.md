@@ -28,3 +28,25 @@ class: invert
     - **Solvent**. Component present in greater amount.
 
 - A substance is **soluble** if it is able to be dissolved in a particular solvent.
+- The physical state of a solution depend on the physical state of the solvent.
+---
+
+ solute\solvent | solid | liquid | gas
+--- | --- | --- | ---
+solid | alloys (steel, bronze,...) | sea water | none
+liquid | gold/mercury amalgam | gasoline, beer, wine | none
+gas | Hydrogen in metals | soft drinks, home ammonia | air
+
+--- 
+
+### Concentration of a solution
+
+- Relationship between the amount of solute and the amount of solvent.
+- It can be expressed in several ways (for liquids and gases):
+    - **Grams per litre**: $c(g/L)=\ \frac{mass\ of\ solute\ (g)}{volume\ of\ solution\ (L)}$
+    - **Mass percentage**: $\%\  mass = \frac{m_{solute}(g)}{m_{solution}(g)} \times 100$
+    - **Volume %**: $\%\  volume = \frac{v_{solute}(mL)}{v_{solution}(mL)} \times 100$
+
+---
+### Procedures for the separation of mixtures
+
